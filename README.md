@@ -4,16 +4,16 @@
 
 TLDR;
 
- * My main job is working on [Apache Ozone](https://github.com/apache/ozone)
- * My [other focus](https://flokkr.github.io) is running Apache big-data (and other projects) in Kubernetes.
+ * My main job is working on [Storj](https://storj.io) Decentrelized Cloud Storage
+ * Previously worked on [Apache Ozone](https://github.com/apache/ozone) and helped the establish it as a top level Apache project.
+ * [https://www.youtube.com/channel/UCSOC-9P5VUox2lS9H9MyCLQ](Youtube channel about random stuff)
 
-## Links
+## More links
 
  * :rocket: Kustomize like resource manager tool but on steroids: [Flekszible](https://github.com/elek/flekszible)
  * :mega: You can find my earlier talks and slides [here](https://github.com/elek/slides)
  * :tv: But since conferences are virtual I started to use YouTube
-   * YouTube channel about [Apache Ozone](https://www.youtube.com/ApacheOzoneunofficial)
-   * Youtube channel about [everything else](https://studio.youtube.com/channel/UCSOC-9P5VUox2lS9H9MyCLQ)
+   * YouTube video series about [Apache Ozone](https://www.youtube.com/ApacheOzoneunofficial)
  * :bell: Twitter: [@anzix](https://twitter.com/anzix)
 
 ## Ozone related stuff
