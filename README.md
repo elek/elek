@@ -5,8 +5,8 @@
 TLDR;
 
  * My main job is working on [Storj](https://storj.io) Decentrelized Cloud Storage
- * Previously worked on [Apache Ozone](https://github.com/apache/ozone) and helped the establish it as a top level Apache project.
- * [https://www.youtube.com/channel/UCSOC-9P5VUox2lS9H9MyCLQ](Youtube channel about random stuff)
+ * Previously worked on [Apache Ozone](https://github.com/apache/ozone) and helped it to be an open and stable top level Apache project.
+ * :tv: [Code and console](https://www.youtube.com/channel/UCSOC-9P5VUox2lS9H9MyCLQ) Youtube channel to share random stuff
 
 ## More links
 
