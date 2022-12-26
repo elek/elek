@@ -14,7 +14,7 @@ TLDR;
  * :mega: You can find my earlier talks and slides [here](https://github.com/elek/slides)
  * :tv: But since conferences are virtual I started to use YouTube
    * YouTube video series about [Apache Ozone](https://www.youtube.com/ApacheOzoneunofficial)
- * :bell: Twitter: [@anzix](https://twitter.com/anzix)
+ * :bell: Mastodon: [@elek](https://hachyderm.io/@elek)
 
 ## Ozone related stuff
 
