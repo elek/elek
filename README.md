@@ -9,15 +9,17 @@ TLDR;
  * :tv: __[Code and console](https://www.youtube.com/channel/UCSOC-9P5VUox2lS9H9MyCLQ) Youtube channel to share random stuff__
 
 ## More links
- 
- * :ambulance: Generic Storj DevOps Opration helper [stbb](https://github.com/elek/stbb)
- * :robot: My custom AI agent hardness [ACPP](https://github.com/elek/acpp), with backed [rai](https://github.com/elek/rai)
- * :rocket: (older experiment) Kustomize like resource manager tool but on steroids: [Flekszible](https://github.com/elek/flekszible)
+
+ * :gear: My daily driver: AI hardness based on Agent Client protocol: [acpp](https://github.com/elek/acpp)
+ * :robot: Headless LLM agentic loop [rai](https://github.com/elek/rai) 
+ * :ambulance: Generic Storj DevOps Opration helper [stbb](https://github.com/elek/stbb) 
  * :mega: You can find my earlier talks and slides [here](https://github.com/elek/slides)
  * :tv: But recently I switched to be on-demand:
    * YouTube video series about [Apache Ozone](https://www.youtube.com/ApacheOzoneunofficial)
    * Actual Youtube Videos [Code and console](https://www.youtube.com/channel/UCSOC-9P5VUox2lS9H9MyCLQ)
  * :bell: Mastodon: [@elek](https://hachyderm.io/@elek)
+ * :rocket: (older experiment) Kustomize like resource manager tool but on steroids: [Flekszible](https://github.com/elek/flekszible)
+ * And many more. I am (and was) interested about so many things: https://github.com/elek?tab=repositories
 
 ## Ozone related stuff (deprecated)
 
